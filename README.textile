@@ -1,0 +1,14 @@
+h1. textile-preview
+
+A hastily thrown-together VS Code extension for previewing Textile files.
+
+This extension is essentially just a wrapper around "textile-js":https://github.com/borgar/textile-js
+
+h2. Features
+
+* Displays an automatically-updated Textile preview to the side
+
+h2. Known Issues
+
+* Does not support relative paths
+* Stops updating unsaved files once you save them.
