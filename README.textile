@@ -8,6 +8,10 @@ h2. Features
 
 * Displays an automatically-updated Textile preview to the side
 
+h2. Installation
+
+Clone/Download this project into a folder in your "extension folder":https://code.visualstudio.com/api/working-with-extensions/publishing-extension#your-extension-folder
+
 h2. Known Issues
 
 * Does not support relative paths
