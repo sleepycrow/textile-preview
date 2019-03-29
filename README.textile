@@ -10,7 +10,8 @@ h2. Features
 
 h2. Installation
 
-Clone/Download this project into a folder in your "extension folder":https://code.visualstudio.com/api/working-with-extensions/publishing-extension#your-extension-folder
+# Clone/Download this project into a folder in your "extension folder":https://code.visualstudio.com/api/working-with-extensions/publishing-extension#your-extension-folder
+# Run @npm install@ in that directory
 
 h2. Known Issues
 
